@@ -12,6 +12,7 @@ Miru 扩展仓库 | [Miru App Download](https://github.com/bizhangjie/repo) |
 | 欧乐影院 | com.olevod.www | v0.0.1 | [查看](https://github.com/bizhangjie/repo/blob/main/repo/com.olevod.www.js) |
 | 皮皮虾说 | com.ppxxs.www | v0.0.1 | [查看](https://github.com/bizhangjie/repo/blob/main/repo/com.ppxxs.www.js) |
 | 7喜影院Miru2.0-Alpha | dev.0n0.miru.7xi | v0.0.4 | [查看](https://github.com/bizhangjie/repo/blob/main/repo/dev.0n0.miru.7xi.js) |
+| 好看的12号 | info.3dsinee.www | v0.0.1 | [查看](https://github.com/bizhangjie/repo/blob/main/repo/info.3dsinee.www.js) |
 | 全本小说 | io.quanben.www | v0.0.1 | [查看](https://github.com/bizhangjie/repo/blob/main/repo/io.quanben.www.js) |
 | Enime | moe.enime | v0.0.4 | [查看](https://github.com/bizhangjie/repo/blob/main/repo/moe.enime.js) |
 | 555电影 | net.xawqxh.www | v0.0.1 | [查看](https://github.com/bizhangjie/repo/blob/main/repo/net.xawqxh.www.js) |

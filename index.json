@@ -73,6 +73,18 @@
   "url": "dev.0n0.miru.7xi.js"
  },
  {
+  "name": "好看的12号",
+  "version": "v0.0.1",
+  "author": "zj",
+  "lang": "zh-cn",
+  "license": "MIT",
+  "icon": "https://xdtv2.xyz/template/xdtv/static/favicon.ico",
+  "package": "info.3dsinee.www",
+  "type": "bangumi",
+  "webSite": "https://www.3dsinee.info/",
+  "url": "info.3dsinee.www.js"
+ },
+ {
   "name": "全本小说",
   "version": "v0.0.1",
   "author": "zj",
