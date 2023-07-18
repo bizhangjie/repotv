@@ -89,13 +89,11 @@ export default class extends Extension {
 
     async detail(url) {
 
-        const res1 = await this.request(url)
+        const res = await this.request(url)
 
-        const res = res1.replace(/\n/g, '')
-        const cover = res.match(/data-original="(.+?)" data-prefix/)[1]
+        const cover = ''
         const title = res.match(/name="description" content="(.+?)"/)[1]
         const desc = title;
-
         const modifiedUrl = url
         const episodes = [
             {
