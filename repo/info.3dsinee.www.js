@@ -43,7 +43,7 @@ export default class extends Extension {
 
     async search(kw, page) {
         const res = await this.request(`/index.php/vodsearch/${kw}----------${page}---.html`);
-        const res1 = res.data.replace(/\n/g, '');
+        const res1 = res.replace(/\n/g, '');
         const articles = res1.match(/class="item"><a([\s\S]+?)<\/a>/g);
         const bangumi = parseArticles(articles);
         return bangumi;
@@ -51,10 +51,40 @@ export default class extends Extension {
 
     async latest() {
         // 分类id
-        const ranges = [ /*...填入分类id...*/];
+        // 分类id
+        const ranges = [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            26,
+            21,
+            22,
+            23,
+            24,
+            25,
+            57,
+            99,
+            119
+        ];
+
+        function getRandomNumberInRange(start, end) {
+            return Math.floor(Math.random() * (end - start + 1)) + start;
+        }
+        function getRandomNumberFromRanges() {
+            const randomNumber = getRandomNumberInRange(0, ranges.length - 1);
+            return ranges[randomNumber];
+        }
         // 随机抽选id填入
         const res = await this.request(`/index.php/vodtype/${getRandomNumberFromRanges()}.html`);
-        const res1 = res.data.replace(/\n/g, '');
+        const res1 = res.replace(/\n/g, '');
         const articles = res1.match(/class="item"><a([\s\S]+?)<\/a>/g);
         const bangumi = parseArticles(articles);
         return bangumi;
