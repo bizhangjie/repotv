@@ -122,7 +122,7 @@ export default class extends Extension {
     async detail(url) {
         const res1 = await this.request(url)
 
-        const res = res1.data.replace(/\n/g, '')
+        const res = res1.replace(/\n/g, '')
         const cover = res.match(/data-original="(.+?)" data-prefix/)[1]
         const title = res.match(/title>(.+?)</)[1].split('详情介绍')[0]
         const desc = title;
