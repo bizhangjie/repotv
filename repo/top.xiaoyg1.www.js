@@ -127,7 +127,7 @@ export default class extends Extension {
         const title = res.match(/title>(.+?)</)[1].split('详情介绍')[0]
         const desc = title;
 
-        const modifiedUrl = url.match(/\/id\/(\d+)\//);
+        const modifiedUrl = url.match(/\/id\/(\d+)\//)[1];
         const episodes = [
             {
                 'title': '国内地址',
