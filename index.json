@@ -24,6 +24,18 @@
   "url": "cc.12chungong.www.js"
  },
  {
+  "name": "好看的11号",
+  "version": "v0.0.1",
+  "author": "zj",
+  "lang": "zh-cn",
+  "license": "MIT",
+  "icon": "https://xdtv2.xyz/template/xdtv/static/favicon.ico",
+  "package": "cc.hotsbow.www",
+  "type": "bangumi",
+  "webSite": "https://www.hotsbow.cc/",
+  "url": "cc.hotsbow.www.js"
+ },
+ {
   "name": "欧乐影院",
   "version": "v0.0.1",
   "author": "MiaoMint",

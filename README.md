@@ -8,6 +8,7 @@ Miru 扩展仓库 | [Miru App Download](https://github.com/bizhangjie/repo) |
 |  ----   | ---- | --- | ---  |
 | 好看的3号 | buzz.xnvn1 | v0.0.1 | [查看](https://github.com/bizhangjie/repo/blob/main/repo/buzz.xnvn1.js) |
 | 好看的6号 | cc.12chungong.www | v0.0.1 | [查看](https://github.com/bizhangjie/repo/blob/main/repo/cc.12chungong.www.js) |
+| 好看的11号 | cc.hotsbow.www | v0.0.1 | [查看](https://github.com/bizhangjie/repo/blob/main/repo/cc.hotsbow.www.js) |
 | 欧乐影院 | com.olevod.www | v0.0.1 | [查看](https://github.com/bizhangjie/repo/blob/main/repo/com.olevod.www.js) |
 | 皮皮虾说 | com.ppxxs.www | v0.0.1 | [查看](https://github.com/bizhangjie/repo/blob/main/repo/com.ppxxs.www.js) |
 | 7喜影院Miru2.0-Alpha | dev.0n0.miru.7xi | v0.0.4 | [查看](https://github.com/bizhangjie/repo/blob/main/repo/dev.0n0.miru.7xi.js) |
