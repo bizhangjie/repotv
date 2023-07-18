@@ -170,6 +170,18 @@
   "url": "top.qsny6.www.js"
  },
  {
+  "name": "好看的10号",
+  "version": "v0.0.1",
+  "author": "zj",
+  "lang": "zh-cn",
+  "license": "MIT",
+  "icon": "https://xdtv2.xyz/template/xdtv/static/favicon.ico",
+  "package": "top.xiaoyg1.www",
+  "type": "bangumi",
+  "webSite": "https://www.xiaoyg1.top/",
+  "url": "top.xiaoyg1.www.js"
+ },
+ {
   "name": "海外华人在线影视视频平台 - HOHO TV",
   "version": "v0.0.1",
   "author": "zj",

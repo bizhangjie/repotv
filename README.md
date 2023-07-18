@@ -20,6 +20,7 @@ Miru 扩展仓库 | [Miru App Download](https://github.com/bizhangjie/repo) |
 | 海外华人在线影视视频平台 - HOHO TV | top.bizhangjie.hoho | v0.0.1 | [查看](https://github.com/bizhangjie/repo/blob/main/repo/top.bizhangjie.hoho.js) |
 | 好看的1号 | top.lkp2.www | v0.0.1 | [查看](https://github.com/bizhangjie/repo/blob/main/repo/top.lkp2.www.js) |
 | 好看的9号 | top.qsny6.www | v0.0.1 | [查看](https://github.com/bizhangjie/repo/blob/main/repo/top.qsny6.www.js) |
+| 好看的10号 | top.xiaoyg1.www | v0.0.1 | [查看](https://github.com/bizhangjie/repo/blob/main/repo/top.xiaoyg1.www.js) |
 | 海外华人在线影视视频平台 - HOHO TV | tv.ihoho | v0.0.1 | [查看](https://github.com/bizhangjie/repo/blob/main/repo/tv.ihoho.js) |
 | 好看的7号 | xyz.thrj66.www | v0.0.1 | [查看](https://github.com/bizhangjie/repo/blob/main/repo/xyz.thrj66.www.js) |
 | 好看的2号 | xyz.xdtv2 | v0.0.1 | [查看](https://github.com/bizhangjie/repo/blob/main/repo/xyz.xdtv2.js) |
